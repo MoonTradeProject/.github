@@ -17,8 +17,7 @@ backend logic, client applications, and infrastructure concerns.
   Focused on UI, user interaction, and real-time visualization.
 
 - **moontrade_db**  
-  Database schema, migrations, and persistence-related configuration
-  (if separated from backend).
+  Database schema, migrations, and persistence-related configuration.
 
 ## External Resources
 
